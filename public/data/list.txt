@@ -1,0 +1,3 @@
+
+if (empty($value)) { 				throw new Exception('All fields must be completed'); 			}  			else if (strlen($value)&gt;=125) 			{ 				throw new Exception('Input is too long'); 			}if (empty($value)) { 				throw new Exception('All fields must be completed'); 			}  			else if (strlen($value)&gt;=125) 			{ 				throw new Exception('Input is too long'); 			}if (empty($value)) { 				throw new Exception('All fields must be completed'); 			}  			else if (strlen($value)&gt;=125) 			{ 				throw new Exception('Input is too long'); 			}
+fgfgfgfgf
